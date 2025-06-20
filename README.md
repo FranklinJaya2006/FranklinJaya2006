@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Franklin Jaya</h1>
 
 <p align="center">
-  💻 Backend & Mobile Developer • 📍 Indonesia  
+  💻 Backend & Mobile Developer • 📍 Makassar, Indonesia  
 </p>
 
 ---
@@ -33,6 +33,6 @@
 
 
 ## 📫 Let's Connect!
-- 🌐 [LinkedIn](https://id.linkedin.com/in/franklin-jaya-6a3697364) *(ganti dengan punyamu)*
-- 📬 Email: franklinjaya827@gmail.com *(ganti juga)*
+- 🌐 [LinkedIn](https://id.linkedin.com/in/franklin-jaya-6a3697364)
+- 📬 Email: franklinjaya827@gmail.com 
 
