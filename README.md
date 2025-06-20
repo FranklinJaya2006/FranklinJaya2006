@@ -31,18 +31,8 @@
 - 🗣️ Communication  
 - 🧩 Problem Solving & Coordination
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franklinjaya&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinjaya&layout=compact&theme=tokyonight" width="350"/>
-</p>
-
----
 
 ## 📫 Let's Connect!
-- 🌐 [LinkedIn](https://linkedin.com/in/yourname) *(ganti dengan punyamu)*
-- 📬 Email: yourmail@example.com *(ganti juga)*
+- 🌐 [LinkedIn](https://id.linkedin.com/in/franklin-jaya-6a3697364) *(ganti dengan punyamu)*
+- 📬 Email: franklinjaya827@gmail.com *(ganti juga)*
 
