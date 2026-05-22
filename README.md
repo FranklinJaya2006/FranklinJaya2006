@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Franklin Jaya</h1>
 
 <p align="center">
-  💻 Backend & Mobile Developer • 📍 Makassar, Indonesia  
+  💻 Full Stack Mobile Developer - IoT Developement - AI Engineer •📍 Makassar, Indonesia  
 </p>
 
 ---
@@ -14,15 +14,27 @@
 - TDD (Test-Driven Development), Postman, Swagger
 
 ### 📱 Frontend Development
-- Flutter, BLoC, GoRouter
-- JavaScript, CSS
+- Flutter, Dart
+- JavaScript, CSS, HTML
 - MagicMirror² (Modular Smart Mirror Platform)
+
+### 🌐 IoT Development
+- Arduino IDE, C++
+- Supabase
+- Arduino Uno, ESP32, ESP32 Cam, ESP8266
+
+### 🎮 Game Development
+- Unity, C#
+- Blender
 
 ### 🛠 Tools & Methodologies
 - WebSockets, YOLO (Object Detection)
 - Agile Development, ADR (Architecture Decision Records)
-- Linux (Raspberry Pi OS / Debian-based)
+- Linux (Raspberry Pi OS / Debian-based, Arch Linux)
 - Miro (Collaboration & Planning)
+- Cloudflared
+- Visual Studio Code
+- Wokwi
 
 ---
 
